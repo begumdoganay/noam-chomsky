@@ -13,6 +13,8 @@ Hey there! This is a tribute website dedicated to the legendary **Noam Chomsky**
 - Who is Noam Chomsky? (Hint: The father of modern linguistics and a major critic of power structures!)
 - His academic and political journey, major influences, and why his work still matters.
 
+![Noam Chomsky](https://www.ithakiyayingrubu.com/dosyalar/2022/02/Noam-Chomsky.jpg)
+
 ### 📚 Books & Reviews
 - Some of his must-read books, like *Syntactic Structures*, *Manufacturing Consent*, and *Understanding Power*.
 - Short reviews and thoughts on why these books are still relevant today.
